@@ -1,3 +1,6 @@
+
+<img align="right" src="https://visitor-badge.laboi.icu/badge?_page_id=izaakgough.izaakgough" />
+
 ## Hi, I'm Izaak 👋
 
 <!--
