@@ -1,4 +1,4 @@
-
+<hr/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=izaakgough.izaakgough" />
 
 <h1 align="center">
@@ -11,7 +11,7 @@
 
 <div align="center">
     
-🔭 I’m currently working on **a notes app**
+🔭 I’m currently **studying full-stack software development at [Northcoders](https://northcoders.com)**
 
 🌱 I’m currently learning **JavaScript, Node.js, PostgreSQL**
 
@@ -45,27 +45,17 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/izaakgough/izaakgough/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
+
+<br/>
+<hr/>
   
-
-
-
-
-
-
-
-
-
-### Currently
-I'm a student at [Northcoders](https://northcoders.com) studying full-stack software development.
-
-
 ### What I'm interested in 
 
 - #### Programming problems
 
-    I enjoy solving programming problems (that are sufficiently easy for me) in a few different places:
+    I enjoy solving programming problems in a few different places:
     
     - LeetCode
     - Project Euler
