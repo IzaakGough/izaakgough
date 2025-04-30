@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?_page_id=izaakgough.izaakgough" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=izaakgough.izaakgough" />
 
 ## Hi, I'm Izaak 👋
 
