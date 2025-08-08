@@ -13,7 +13,7 @@
     
 🔭 
 
-🌱 I’m currently learning **TypeScript, Node.js, PostgreSQL**
+🌱 I’m currently learning **TypeScript, C# and Azure**
 
 ⚡ Fun fact: **I hold the 5th fastest Half-Life: Opposing Force time on Speedrun.com**
 
