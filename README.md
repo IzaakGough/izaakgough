@@ -5,15 +5,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Izaak;" />
 </h1>
 
-<h3 align="center">A mathematics graduate transitioning into software development</h3>
+<h3 align="center">Junior Software Developer at Outserve</h3>
 
 <br/>
 
 <div align="center">
     
-🔭 I’m currently **studying full-stack software development at [Northcoders](https://northcoders.com)**
+🔭 
 
-🌱 I’m currently learning **JavaScript, Node.js, PostgreSQL**
+🌱 I’m currently learning **TypeScript, Node.js, PostgreSQL**
 
 ⚡ Fun fact: **I hold the 5th fastest Half-Life: Opposing Force time on Speedrun.com**
 
