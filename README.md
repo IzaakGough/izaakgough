@@ -11,11 +11,10 @@
 
 <div align="center">
     
-🔭 
+Junior Software Developer specialising in backend development.
+Currently working with TypeScript, Node.js, and Microsoft Azure.
+Building public projects in C#/.NET to deepen my backend skills.
 
-🌱 I’m currently learning **TypeScript, C#, Azure and Liquid**
-
-⚡ Fun fact: **I hold the 5th fastest Half-Life: Opposing Force time on Speedrun.com**
 
 </div>
 
